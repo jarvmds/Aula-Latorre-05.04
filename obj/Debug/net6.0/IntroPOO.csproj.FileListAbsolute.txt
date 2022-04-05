@@ -1,0 +1,15 @@
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\bin\Debug\net6.0\IntroPOO.exe
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\bin\Debug\net6.0\IntroPOO.deps.json
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\bin\Debug\net6.0\IntroPOO.runtimeconfig.json
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\bin\Debug\net6.0\IntroPOO.dll
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\bin\Debug\net6.0\IntroPOO.pdb
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\IntroPOO.csproj.AssemblyReference.cache
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\IntroPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\IntroPOO.AssemblyInfoInputs.cache
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\IntroPOO.AssemblyInfo.cs
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\IntroPOO.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\IntroPOO.dll
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\refint\IntroPOO.dll
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\IntroPOO.pdb
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\IntroPOO.genruntimeconfig.cache
+C:\Users\IFSP\Desktop\sp3048144\IntroPOO\obj\Debug\net6.0\ref\IntroPOO.dll
